@@ -1,0 +1,43 @@
+---
+code_id: 74971
+open_source: true
+repository_link: "https://github.com/building-performance-modeling/AirflowNetwork"
+accessibility: "OS"
+software_type: "S"
+developers:
+- email: "degrawjw@ornl.gov"
+  orcid: "0000-0001-6768-6017"
+  first_name: "Jason"
+  last_name: "DeGraw"
+  middle_name: ""
+  affiliations:
+  - "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+contributors: []
+sponsoring_organizations: []
+contributing_organizations: []
+research_organizations: []
+related_identifiers: []
+award_dois: []
+release_date: "2022-06-16"
+software_title: "building-performance-modeling/AirflowNetwork"
+acronym: "AFN"
+doi: "10.11578/dc.20220616.1"
+description: "AirflowNetwork is a C++ implementation of the pressure network approach\
+  \ to bulk air movement and contaminant transport, primarily in the context of buildings.\
+  \ It is a descendant of NIST AIRNET (the precursor to NIST's CONTAM) and COMIS.\
+  \ This modeling technique divides the building's total volume up into a set of well-mixed\
+  \ zones that communicate via airflows through openings that are part of the building.\
+  \ Parts of this code have been extracted from EnergyPlus (U.S. DOE's whole building\
+  \ energy simulation program) and other parts are new development."
+programming_languages:
+- "C++"
+country_of_origin: "United States"
+keywords: "airflow; contaminant transport; indoor air quality"
+licenses:
+- "BSD 3-clause \"New\" or \"Revised\" License"
+date_record_added: "2022-06-16"
+date_record_updated: "2022-06-16"
+links:
+- rel: "citation"
+  href: "https://www.osti.gov/doecode/biblio/74971"
+is_migration: false
